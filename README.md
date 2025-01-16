@@ -1,3 +1,23 @@
-# About me
+# TANG, Jinzhou (Donald)
 
-I'm studying statistics, with a bit of financial mathematics on the side, in [Statistical Science at UCL](https://www.ucl.ac.uk/statistics/). I'm still actively trying to figure out what to do with my life. So far, my primary interests involve spotting trains at North Queensferry on a rainy day, swimming regularly at London Aquatics Centre, and reading [*50 Great Coastal Walks of the British Isles Volume 2*](https://www.youtube.com/5VAkReIZo40) (as a side note, I do enjoy a good coastal walk on a sunny day). I take pictures of nature, people and other thingamajigs. I took up Kendo since the start of this October. I like Slavoj Zizek (mostly because of his jokes), foreign languages, and maps.
+## Education
+University College London, London, Great Britain. BSc Statistics, Economics and Finance. 2022.09-2025.06.
+Shishi High School, Chengdu, China. 2019.09-2022.06.
+
+## Work
+Minsheng Securities, Shanghai, China. Intern. 2024.07-2024.09.
+Sterling FX, London, Great Britain. Cashier. 2024.05-2024.06.
+
+## Skills
+Data Analysis and Statistical Modelling in Python, R and SAS.
+Microsoft Office.
+Bloomberg Terminal.
+
+## Languages
+Chinese (native).
+English (fluent).
+Japanese (conversational).
+
+## Volunteer
+Great Ormond Street Hospital Charity. 2024.
+Ronald McDonald House Charities. 2023.
