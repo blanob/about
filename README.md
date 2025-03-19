@@ -1,4 +1,6 @@
-# Jinzhou Tang
+# About me
+
+I live in London and I study statistics at University College.
 
 Feel free to reach me at [jinzhou.tang.22@ucl.ac.uk](jinzhou.tang.22@ucl.ac.uk) (if you are from `School`) or [blanobson@outlook.com](blanobson@outlook.com) (if you are, I don't know, from `Somewhere Else`?)
 
